@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.io.PrintWriter;
 
 /**
- * See <a href="http://codeforces.com/problemset/problem/71/A">Way Too Long Words</a>
+ * See <a href="http://codeforces.com/problemset/problem/4/A">Watermelon</a>
  * @author Brian Yeicol Restrepo Tangarife
  */
 public class CF004AWatermelon {
