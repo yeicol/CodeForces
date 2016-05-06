@@ -9,7 +9,7 @@ import java.io.PrintWriter;
  *
  * @author Brian Yeicol Restrepo Tangarife
  */
-public class CF118StringTask {
+public class CF118AStringTask {
 
 	static BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
 	static PrintWriter out = new PrintWriter(System.out);
