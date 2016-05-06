@@ -1,2 +1,2 @@
 # CodeForces
-Programming solutions
+Programming solutions in java
