@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.io.PrintWriter;
 
 /**
- * See <a href="http://codeforces.com/problemset/problem/000/A">George and
+ * See <a href="http://codeforces.com/problemset/problem/467/A">George and
  * Accommodation</a>
  *
  * @author Brian Yeicol Restrepo Tangarife

@@ -8,7 +8,7 @@ import java.util.List;
 
 /**
  * See
- * <a href="http://codeforces.com/problemset/problem/000/A">CF236ABoyOrGirl</a>
+ * <a href="http://codeforces.com/problemset/problem/236/A">Boy or girl</a>
  *
  * @author Brian Yeicol Restrepo Tangarife
  */
