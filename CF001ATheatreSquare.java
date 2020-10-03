@@ -18,7 +18,7 @@ public class CF001ATheatreSquare {
 		long n = Long.parseLong(p[0]);
 		long m = Long.parseLong(p[1]);
 		double a = Double.parseDouble(p[2]);
-		long flagstones = (long) (ceil(n / a) * ceil(m / a));
+		long flagstones = (long) (ceil(n / a) * ceil(m / a));//could be improved more plz check
 		out.print(flagstones);
 		out.close();
 	}
